@@ -1,6 +1,6 @@
 ### "..." 
 
-> -Indonesia, 11/09/98. 
+> -Indonesia
 
 <!--
 **rizafairuzzabadi/rizafairuzzabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
